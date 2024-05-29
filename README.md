@@ -7,7 +7,7 @@
 
 This pipeline is used through the `gatorgenome.py` tkinter app. All data is in
 AWS S3 and all computation occurs in AWS. This is an ongoing project that will
-continue to evolve as the needs of our lab evolves.
+continue to evolve as the needs of our lab evolve.
 
 Version 1.0.0 of the pipeline runs as follows:
 
