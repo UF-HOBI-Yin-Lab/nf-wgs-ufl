@@ -45,6 +45,7 @@ workflow CNV_CONTROLS {
         SAMTOOLS_SORT.out.sort_bam
     )
 
+
     CNV_PICARD_MARK_DUPLICATES(
         SAMTOOLS_SORT.out.sort_bam,
         SAMTOOLS_INDEX.out.index_sort_bam
